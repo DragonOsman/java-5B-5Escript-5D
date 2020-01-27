@@ -23,6 +23,10 @@
         "space-before-function-paren": "off",
         "newline-before-return": "off",
         "prefer-const": "error",
-        "no-var": "error"
+        "no-var": "error",
+        "quotes": [
+            "error",
+            "double"
+        ]
     }
 }
